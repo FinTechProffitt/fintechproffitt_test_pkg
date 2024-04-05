@@ -1,0 +1,19 @@
+{
+    "name": "fintechproffitt_test_pkg",
+    "description": "Tea.xyz ITN Test Project",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/FinTechProffitt/fintechproffitt_test_pkg"
+    },
+    "keywords": [],
+    "author": "FinTechProffitt",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/FinTechProffitt/fintechproffitt_test_pkg"
+    },
+      "homepage": "https://github.com/FinTechProffitt/fintechproffitt_test_pkg"
+  }
